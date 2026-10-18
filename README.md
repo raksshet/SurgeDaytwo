@@ -21,6 +21,10 @@ AZURE CLI is used to authenticate from local system
 
 ```resource "azurerm_resource_group" "example" {}```
 
+learn about **state file**
+
+
+
 
 
 
